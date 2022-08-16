@@ -6934,7 +6934,7 @@
                     }
                 }, [i("el-tab-pane", {
                     attrs: {
-                        label: "econdary Node",
+                        label: "Secondary Node",
                         name: "second"
                     }
                 }), i("el-tab-pane", {
